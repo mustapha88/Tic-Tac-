@@ -1,3 +1,6 @@
+#this is a simple  tic toe game to play with A computer where i can choose to play either with X  or O 
+#i can restart as soon as its over so i can play again
+#you can't beat A Computer(AI maybe let you a tie but never loss)
 var player='x' ; // turn = 0
 var computer='o' ; // turn = 1
 var countMove;
